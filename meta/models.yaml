@@ -48,3 +48,15 @@
   urls:
   - https://huggingface.co/LoneStriker/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q4_K_M.gguf
   sha256: de9558512f2b26b82be73c50ad4bdc2578403a787a76c8dda455f6683269b299
+
+- name: StarCoder2-3B
+  provider_url: https://huggingface.co/bigcode/starcoder2-3b
+  <<: &starcoder-series
+    license_name: BigCode-OpenRAIL-M
+    license_url: https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement
+    prompt_template: "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>"
+
+  <<: *starcoder-series
+  urls:
+  - https://huggingface.co/brittlewis12/starcoder2-3b-GGUF/resolve/main/starcoder2-3b.Q8_0.gguf
+  sha256: b4cbf961fa378b1a9f86d5930d3fcb0c31bacfd3ad64fcd27aca680b10059ff8
