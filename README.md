@@ -12,6 +12,8 @@ We recommend using
 | [wsxiaoys/DeepseekCoder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [wsxiaoys/DeepseekCoder-6.7B](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [wsxiaoys/StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [wsxiaoys/StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [wsxiaoys/StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-15b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 
 
 ## Chat models (`--chat-model`)
