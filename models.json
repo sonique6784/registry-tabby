@@ -69,7 +69,7 @@
     "license_name": "BigCode-OpenRAIL-M",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
-    "name": "StarCoder2-3B",
+    "name": "StarCoder2-7B",
     "provider_url": "https://huggingface.co/bigcode/starcoder2-7b",
     "urls": [
       "https://huggingface.co/nold/starcoder2-7b-GGUF/resolve/main/starcoder2-7b_Q8_0.gguf"
@@ -80,7 +80,7 @@
     "license_name": "BigCode-OpenRAIL-M",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
-    "name": "StarCoder2-3B",
+    "name": "StarCoder2-15B",
     "provider_url": "https://huggingface.co/bigcode/starcoder2-15b",
     "urls": [
       "https://huggingface.co/second-state/StarCoder2-15B-GGUF/resolve/main/starcoder2-15b-Q8_0.gguf"
