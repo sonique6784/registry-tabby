@@ -25,4 +25,5 @@ To ensure optimal response quality, and given that latency requirements are not 
 | -------- | ------- |
 | [wsxiaoys/Yi-34B](https://huggingface.co/01-ai/Yi-34B) | [Yi License](https://huggingface.co/01-ai/Yi-34B/blob/main/LICENSE) |
 | [wsxiaoys/OpenHermes-2.5-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [wsxiaoys/DeepseekCoder-v15-7B-Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [wsxiaoys/CodeLlama-70B-Instruct](https://huggingface.co/codellama/CodeLlama-70b-Instruct-hf) | [Llama 2](https://ai.meta.com/llama/license/) |
