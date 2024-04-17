@@ -17,6 +17,7 @@ We recommend using
 | [wsxiaoys/StarCoder2-15B](https://huggingface.co/bigcode/starcoder2-15b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | [wsxiaoys/CodeGemma-2B](https://huggingface.co/google/codegemma-2b) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [wsxiaoys/CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
+| [wsxiaoys/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat/blob/main/LICENSE) |
 
 
 ## Chat models (`--chat-model`)
