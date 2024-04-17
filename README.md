@@ -17,7 +17,7 @@ We recommend using
 | [wsxiaoys/StarCoder2-15B](https://huggingface.co/bigcode/starcoder2-15b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | [wsxiaoys/CodeGemma-2B](https://huggingface.co/google/codegemma-2b) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [wsxiaoys/CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
-| [wsxiaoys/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat/blob/main/LICENSE) |
+| [wsxiaoys/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
 
 
 ## Chat models (`--chat-model`)
@@ -31,4 +31,4 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [wsxiaoys/DeepseekCoder-v15-7B-Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [wsxiaoys/CodeLlama-70B-Instruct](https://huggingface.co/codellama/CodeLlama-70b-Instruct-hf) | [Llama 2](https://ai.meta.com/llama/license/) |
 | [wsxiaoys/CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
-| [wsxiaoys/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat/blob/main/LICENSE) |
+| [wsxiaoys/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |

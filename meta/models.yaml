@@ -126,7 +126,7 @@
   provider_url: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
   <<: &codeqwen-series
     license_name: Tongyi Qianwen License
-    license_url: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat/blob/main/LICENSE
+    license_url: https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT
   prompt_template: "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>"
   urls:
   - https://huggingface.co/bartowski/CodeQwen1.5-7B-GGUF/resolve/main/CodeQwen1.5-7B-Q8_0.gguf
