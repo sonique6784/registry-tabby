@@ -112,7 +112,7 @@
   {
     "license_name": "Gemma License",
     "license_url": "https://ai.google.dev/gemma/terms",
-    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
     "name": "CodeGemma-2B",
     "provider_url": "https://huggingface.co/google/codegemma-2b",
     "urls": [
@@ -123,7 +123,7 @@
   {
     "license_name": "Gemma License",
     "license_url": "https://ai.google.dev/gemma/terms",
-    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
     "name": "CodeGemma-7B",
     "provider_url": "https://huggingface.co/google/codegemma-7b",
     "urls": [

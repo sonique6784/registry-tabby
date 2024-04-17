@@ -100,7 +100,7 @@
   <<: &codegemma-series
     license_name: Gemma License
     license_url: https://ai.google.dev/gemma/terms
-    prompt_template: "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>"
+    prompt_template: "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>"
   urls:
   - https://huggingface.co/TabbyML/models/resolve/main/codegemma-2b.Q8_0.gguf
   sha256: a5dc633538a2e152d8e9f69766135b4bffcc5611d6dd84200e280419f7dc1eba
