@@ -32,3 +32,4 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [wsxiaoys/CodeLlama-70B-Instruct](https://huggingface.co/codellama/CodeLlama-70b-Instruct-hf) | [Llama 2](https://ai.meta.com/llama/license/) |
 | [wsxiaoys/CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [wsxiaoys/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
+| [wsxiaoys/Phi-3-mini-128k](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) | []() |
