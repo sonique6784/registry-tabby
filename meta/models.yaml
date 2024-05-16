@@ -146,3 +146,9 @@
   urls:
   - https://huggingface.co/QuantFactory/Phi-3-mini-128k-instruct-GGUF/resolve/main/Phi-3-mini-128k-instruct.Q8_0.gguf
   sha256: 912fcd1c87365b32d027426f62db58d0088d2171b1f9d9ed30943cda085e2399
+
+- name: Nomic-Embed-Text
+  provider_url: https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF
+  urls:
+  - https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF/resolve/main/nomic-embed-text-v1.5.Q8_0.gguf
+  sha256: 3e24342164b3d94991ba9692fdc0dd08e3fd7362e0aacc396a9a5c54a544c3b7
