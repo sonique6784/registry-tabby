@@ -29,6 +29,7 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [wsxiaoys/Yi-34B](https://huggingface.co/01-ai/Yi-34B) | [Yi License](https://huggingface.co/01-ai/Yi-34B/blob/main/LICENSE) |
 | [wsxiaoys/OpenHermes-2.5-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [wsxiaoys/DeepseekCoder-v15-7B-Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [wsxiaoys/DeepseekV2-Lite-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [wsxiaoys/CodeLlama-70B-Instruct](https://huggingface.co/codellama/CodeLlama-70b-Instruct-hf) | [Llama 2](https://ai.meta.com/llama/license/) |
 | [wsxiaoys/CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [wsxiaoys/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
