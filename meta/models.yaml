@@ -211,5 +211,5 @@
     license_url: https://choosealicense.com/licenses/apache-2.0/
     chat_template: "{% if messages[0]['role'] == 'system' %}{% set system_message = messages[0]['content'] %}{% endif %}{% if system_message is defined %}{{ '<|im_start|>system\n' + system_message + '<|im_end|>\n' }}{% endif %}{% for message in messages %}{% set content = message['content'] %}{% if message['role'] == 'user' %}{{ '<|im_start|>user\n' + content + '<|im_end|>\n<|im_start|>assistant\n' }}{% elif message['role'] == 'assistant' %}{{ content + '<|im_end|>' + '\n' }}{% endif %}{% endfor %}"
   urls:
-  - https://huggingface.co/QuantFactory/Yi-Coder-9B-Chat-GGUF/resolve/main/Yi-Coder-9B-Chat.Q8_0.gguf
-  sha256: febb88d48eeda0e834ab619b11f82ea2153bff099757bfcc2555fb43c14ed060
+  - https://huggingface.co/wsxiaoys/Yi-Coder-9B-Chat-Q8_0-GGUF/resolve/main/yi-coder-9b-chat-q8_0.gguf
+  sha256: 23b4408c9a621bc563ed9f998a7929776ba50f5102ed2c2436b2f917404b05e7
