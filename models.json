@@ -237,5 +237,16 @@
       "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q8_0.gguf"
     ],
     "sha256": "22cef614d5b3e1d00ece317ded91c48046f1a6f24618639dea110fbc22e5f86c"
+  },
+  {
+    "license_name": "Apache 2.0",
+    "license_url": "https://choosealicense.com/licenses/apache-2.0/",
+    "chat_template": "{% if messages[0]['role'] == 'system' %}{% set system_message = messages[0]['content'] %}{% endif %}{% if system_message is defined %}{{ '<|im_start|>system\n' + system_message + '<|im_end|>\n' }}{% endif %}{% for message in messages %}{% set content = message['content'] %}{% if message['role'] == 'user' %}{{ '<|im_start|>user\n' + content + '<|im_end|>\n<|im_start|>assistant\n' }}{% elif message['role'] == 'assistant' %}{{ content + '<|im_end|>' + '\n' }}{% endif %}{% endfor %}",
+    "name": "Yi-Coder-9B-Chat",
+    "provider_url": "https://huggingface.co/01-ai/Yi-Coder-9B-Chat",
+    "urls": [
+      "https://huggingface.co/QuantFactory/Yi-Coder-9B-Chat-GGUF/resolve/main/Yi-Coder-9B-Chat.Q8_0.gguf"
+    ],
+    "sha256": "febb88d48eeda0e834ab619b11f82ea2153bff099757bfcc2555fb43c14ed060"
   }
 ]

@@ -37,3 +37,4 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [wsxiaoys/Phi-3-mini-128k](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) | []() |
 | [wsxiaoys/Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [wsxiaoys/Deepseek-V2-Lite-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [wsxiaoys/Yi-Coder-9B-Chat](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
