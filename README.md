@@ -19,6 +19,7 @@ We recommend using
 | [wsxiaoys/CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [wsxiaoys/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
 | [wsxiaoys/DeepSeek-Coder-V2-Lite](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [wsxiaoys/StarCoder-1B](https://huggingface.co/bigcode/starcoderbase-1b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 
 
 ## Chat models (`--chat-model`)

@@ -248,5 +248,16 @@
       "https://huggingface.co/wsxiaoys/Yi-Coder-9B-Chat-Q8_0-GGUF/resolve/main/yi-coder-9b-chat-q8_0.gguf"
     ],
     "sha256": "23b4408c9a621bc563ed9f998a7929776ba50f5102ed2c2436b2f917404b05e7"
+  },
+  {
+    "license_name": "BigCode-OpenRAIL-M",
+    "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "name": "StarCoder-1B",
+    "provider_url": "https://huggingface.co/bigcode/starcoderbase-1b",
+    "urls": [
+      "https://huggingface.co/wsxiaoys/starcoderbase-1b-Q2_K-GGUF/resolve/main/starcoderbase-1b-q2_k.gguf"
+    ],
+    "sha256": "099c98cf0087b58f50ee8ef13b8edc7c21ea3b7e668e3f91d9e1546ec85d551c"
   }
 ]
