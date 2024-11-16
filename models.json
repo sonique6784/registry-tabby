@@ -153,6 +153,17 @@
     ],
     "sha256": "3f0fd0cc522f22590630e6c912e24178b088839ec015ab9fa04cbb018ea72eb6"
   },
+    {
+    "license_name": "Tongyi Qianwen License",
+    "license_url": "https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT",
+    "name": "Qwen2.5-Coder-3B",
+    "provider_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-GGUF/resolve/main/Qwen2.5-Coder-3B-Q8_0.gguf"
+    ],
+    "sha256": "d35ed6c8ac245e6979b34568afa69c5e3e14120435300160e9de5e511cf1dcf7"
+  },
   {
     "license_name": "Tongyi Qianwen License",
     "license_url": "https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT",
